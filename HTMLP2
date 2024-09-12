@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+    <style>
+      body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            color: #425721;
+            background-color: #435c155e;
+        } 
+        h1, h2 {
+            color: #27143dc2;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            color: #5f1e1e;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>RICOCOS BITES MENU</h1>
+    <h2>Appetizers</h2>
+    <ul>
+        <li>Nachos - A flavorful fiesta on a plate</li>
+        <li> Buffalo chicken wings - The perfect combination of spice and tang</li>
+         <li> Potato Skins - A savory and satisfying delight</li>
+         <li> Bruschetta - Crunchy, cheesy crostini</li>
+         <li> Crab cakes - Breadcrumbs, sweet crab morsels, and refreshing vegetables</li>
+           <LI> Lobster salad with beetroot</LI> 
+           <li>Shrimp tartar</li>
+                    <li>Sweetcorn panna cotta with crab</li>
+        </ul>
+    </div>
+
+    <div class="menu-section">
+        <h2>Main Courses</h2>
+        <ul>
+            <li>Saffron risotto with forest mushrooms</li>
+            <li>Chicken tagine makful</li>
+            <li>Waldorf salad</li>
+            <LI>Tasmanian salmon fillet with Dutch carrot puree</LI>
+            <li>Chinese chicken salad</li>
+            <li> classic slow-cooked spaghetti bolognese</li>
+            <LI>Spring carbonara</LI>
+            <LI>Spaghetti with ham, ceps and black truffle</LI>
+        </ul>        
+    </div>
+       
+    <div class="menu-section">
+        <h2>Desserts</h2>
+        <ul>
+            <LI>Almond and Dates Cake</LI>
+            <LI>Roasted strawberry crumble</LI>
+            <li>Apple and butterscotch pie</li>
+            <Li>anzac biscuit tarts</Li>
+            <li>AZniseed and chocolate parfait</li>
+            <li>Afogato</li>
+            <LI>Honey cheese Cake</LI>
+            <LI>Baked lemon meringue pie</LI>
+            <LI>Banana split</LI>
+            <LI>Banoffee pie</LI>
+        </ul>
+    </div>
+
+    <a href="contact.html" class="contact-link">Contact Us</a>
+</div>
+</body>
+</html>
